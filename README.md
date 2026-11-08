@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 # Gestelyo
 
 Landing page React en français, réalisée à partir de la référence visuelle fournie le 8 octobre 2026.
 
 ## Démarrer
 
-- `npm install`
+- `npm ci`
 - `npm run dev -- --port 5173`
 - `npm run build`
 - `npm run preview`
@@ -29,8 +28,3 @@ Les photographies d’illustration sont servies par images.unsplash.com (bureaux
 - `src/main.jsx` : composants React, contenu français et interactions.
 - `src/styles.css` : mise en page, thèmes des modules, adaptation mobile et mouvement réduit.
 - `index.html` : métadonnées et point d’entrée.
-
-Aucun dépôt Git n’était initialisé dans le dossier existant au démarrage.
-=======
-# gestelyo
->>>>>>> origin/main
